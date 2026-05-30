@@ -75,9 +75,7 @@ The project was developed to gain hands-on experience in Java Full Stack Develop
 ### Tools
 
 * Eclipse IDE
-* IntelliJ IDEA
 * MySQL Workbench
-* Git
 * GitHub
 
 ---
